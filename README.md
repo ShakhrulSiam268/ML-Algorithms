@@ -1,6 +1,15 @@
 # ML Algorithms
 
+## Classifiers
 - [x] Random Forest
 - [x] XGBoost
 - [x] TabNet
-- [ ] Naive Bayes
+
+## Oversampling
+- [x] BorderLineSmote
+
+## Parameters tuning
+- [x] GridSearchCV
+- [x] RandomizedGridSearch
+- [x] Optuna
+

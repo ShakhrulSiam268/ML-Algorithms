@@ -3,3 +3,4 @@ pandas
 matplotlib
 pytorch-tabnet==3.1.1
 imblearn
+optuna
